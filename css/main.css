@@ -1,1 +1,33 @@
 /* Place CSS styles here */
+.full-resume {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.my-title {
+    display: flex; 
+    justify-content: center;
+}
+.title {
+    color:rgb(115, 154, 190);
+}
+.about-me-title {
+    color:rgb(55, 96, 135) ;
+}
+.contact-title {
+    color:rgb(55, 96, 135) ;
+}
+.skills-title {
+    color:rgb(55, 96, 135) ;
+}
+.education-and-achievements-title {
+    color:rgb(55, 96, 135)
+}
+.employment-and-activities-title {
+    color:rgb(55, 96, 135)
+}
+body{
+    font-family: "EB Garamond", serif;
+    background-color:rgb(236, 237, 240);
+    color:rgb(17, 32, 55);
+}
